@@ -45,6 +45,7 @@
 | [qa-testcase-generator](https://github.com/dheogns1222-sketch/qa-testcase-generator) | 기능 명세를 입력하면 표준 포맷의 테스트케이스 Excel 문서를 생성하는 CLI 도구 | Python · openpyxl |
 | [qa-e2e-playwright](https://github.com/dheogns1222-sketch/qa-e2e-playwright) | Playwright(Python) + pytest 기반 SauceDemo E2E 테스트 자동화 — Page Object Model 적용 | Playwright · pytest |
 | [qa-sheets-automation](https://github.com/dheogns1222-sketch/qa-sheets-automation) | 실무에서 4개 프로젝트에 배포했던 QA 일일 보고 자동화를 재구성한 Google Sheets 시스템 | Google Apps Script |
+| [apk-qa-toolkit](https://github.com/dheogns1222-sketch/apk-qa-toolkit) | APK 권한 감사·버전 간 diff 자동화 — 위험 권한 카탈로그와 QA 확인 포인트를 담은 Excel 리포트 | Python · pyaxmlparser |
 
 ## QA by Numbers
 
