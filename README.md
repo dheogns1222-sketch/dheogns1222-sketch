@@ -47,6 +47,8 @@
 | [qa-sheets-automation](https://github.com/dheogns1222-sketch/qa-sheets-automation) | 실무에서 4개 프로젝트에 배포했던 QA 일일 보고 자동화를 재구성한 Google Sheets 시스템 | Google Apps Script |
 | [apk-qa-toolkit](https://github.com/dheogns1222-sketch/apk-qa-toolkit) | APK 권한 감사·버전 간 diff 자동화 — 위험 권한 카탈로그와 QA 확인 포인트를 담은 Excel 리포트 | Python · pyaxmlparser |
 
+> 위 4개 도구를 실제 배포 앱 [Taste Journey](https://taste-journey-iota.vercel.app)에 한 번에 투입한 시뮬레이션 결과: [QA 자동화 도구 4종 적용 보고서](https://claude.ai/code/artifact/15e3eb29-b1ee-4f7d-a559-43bd7c19e23b) — 문서 생성 39건 · 권한 감사 · 일일 보고 자동 조립 · 실서비스 E2E 7/7 통과.
+
 ## QA by Numbers
 
 2년간의 실무 기록입니다. (재직 당시 사내 KPI 집계 기준)
