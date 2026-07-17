@@ -1,6 +1,12 @@
+<div align="center">
+  <img src="assets/banner.png" alt="오대훈 Daehun Oh — QA Engineer x AI Systems Builder" width="100%" />
+</div>
+
+<br/>
+
 # 오대훈 · Daehun Oh
 
-**QA Test Engineer — Multiplatform Game & Web3 QA**
+**QA Test Engineer × AI Systems Builder** — Multiplatform Game & Web3 QA
 
 > QA engineer with 2 years of hands-on testing across 6 platforms — VR/MR, Mobile, PC, OTT, Web3, and Telegram.
 
@@ -14,6 +20,16 @@
 - **Meta Quest 타이틀의 VRC(Virtual Reality Check) 검수 대응**, **Web3 거래소의 KYC · 2FA · 오더북 QA**, **KRAFTON inZOI 파일럿 팀 참여** 등 플랫폼별 도메인 경험을 쌓았습니다.
 - 수작업으로 반복되던 일일 테스트 보고를 **Google Sheets + Apps Script 자동화 시스템으로 직접 설계**해 4개 프로젝트에 배포했습니다.
 - 현재 **ISTQB CTFL 준비**와 함께 **Playwright 기반 E2E 테스트 자동화**를 학습하고 있습니다.
+
+## 🤖 AI 개발 · 자기개발
+
+QA 경력 위에, AI 시대의 '만드는 역량'과 'AI를 검증하는 역량'을 스스로 쌓고 있습니다.
+
+- **AI Company HQ** — Claude Code 기반 멀티에이전트 오케스트레이션 대시보드. 여러 AI 에이전트가 역할을 나눠 협업하고 MCP(Model Context Protocol)로 도구·컨텍스트를 주고받는 구조를 직접 설계하고 275개+ 테스트로 검증했습니다.
+- **Upbit 자동매매 시스템** — 리스크 계층 설계를 중심으로 한 자동매매 봇 + 관제 대시보드. 실제 자금이 오가는 만큼 적대적 QA(Adversarial) 관점으로 151개 테스트를 작성해 실패 시나리오를 집중 검증했습니다.
+- **AI 품질·평가 (LLM / 에이전트 테스팅)** — QA 관점을 AI 시스템에 적용합니다. LLM 출력·에이전트 동작의 평가(Evaluation)와 안전성 검증을 학습·실천 중 — 'AI를 QA하는' 요즘의 교집점 역량입니다.
+
+> 게임 · Web3 QA 2년 경력 위에, 지금은 AI 시스템을 직접 만들고 QA 관점으로 검증하는 엔지니어로 확장하고 있습니다.
 
 ## Tech Stack
 
@@ -73,5 +89,5 @@
 
 ## Contact
 
-- Email: [gpgr@naver.com](mailto:gpgr@naver.com)
+- Email: [dheogns1222@gmail.com](mailto:dheogns1222@gmail.com)
 - GitHub: [@dheogns1222-sketch](https://github.com/dheogns1222-sketch)
