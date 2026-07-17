@@ -1,8 +1,14 @@
 <div align="center">
-  <img src="assets/banner.png" alt="오대훈 Daehun Oh — QA Engineer x AI Systems Builder" width="100%" />
+  <img src="https://raw.githubusercontent.com/dheogns1222-sketch/dheogns1222-sketch/main/assets/banner.png" alt="오대훈 Daehun Oh — QA Engineer x AI Systems Builder" width="100%" />
 </div>
 
 <br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=C2AD86&center=true&vCenter=true&width=640&lines=QA+Engineer+%C3%97+AI+Systems+Builder;Game+%26+Web3+QA+%E2%86%92+AI+Systems;Build+with+AI%2C+verify+with+QA)](https://github.com/DenverCoder1/readme-typing-svg)
+
+</div>
 
 # 오대훈 · Daehun Oh
 
@@ -86,6 +92,23 @@ QA 경력 위에, AI 시대의 '만드는 역량'과 'AI를 검증하는 역량'
 | 학습 | Playwright E2E 자동화 | 진행 중 |
 
 **Playwright 학습 로드맵** — 기본 문법 · 로케이터 → 대기 전략과 안정적인 셀렉터 → Page Object Model → pytest 연동 → GitHub Actions CI 연동. 학습 과정과 결과물은 [qa-e2e-playwright](https://github.com/dheogns1222-sketch/qa-e2e-playwright) 저장소에 기록합니다.
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dheogns1222-sketch&show_icons=true&hide_border=true&bg_color=0b0c0e&title_color=c2ad86&icon_color=c2ad86&text_color=eef0f3&hide=contribs" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheogns1222-sketch&layout=compact&hide_border=true&bg_color=0b0c0e&title_color=c2ad86&text_color=eef0f3&langs_count=8" alt="top langs" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=dheogns1222-sketch&hide_border=true&background=0b0c0e&stroke=c2ad86&ring=c2ad86&fire=c2ad86&currStreakLabel=c2ad86&sideLabels=eef0f3&currStreakNum=eef0f3&sideNums=eef0f3&dates=8a9099&dayLabels=8a9099" height="160" alt="streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dheogns1222-sketch&theme=onedark&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophy" />
+
+</div>
 
 ## Contact
 
